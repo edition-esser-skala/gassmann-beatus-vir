@@ -62,7 +62,7 @@
 \book {
   \bookpart {
     \header {
-      title = "P O S T   D I R A   M U N D I   B E L L A   S E D E B I T"
+      title = "B E A T U S   V I R   Q U I   I N V E N T U S   E S T"
     }
     \paper { indent = 2\cm }
     \score {
@@ -73,7 +73,6 @@
             \new Voice = "Soprano" { \dynamicUp \SopranoNotes }
           }
           \new Lyrics \lyricsto Soprano \SopranoLyrics
-          \new Lyrics \lyricsto Soprano \SopranoLyricsB
 
           \new Staff {
             \set Staff.instrumentName = "Alto"

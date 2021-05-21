@@ -45,7 +45,7 @@
 \book {
   \bookpart {
     \header {
-      title = "P O S T   D I R A   M U N D I   B E L L A   S E D E B I T"
+      title = "B E A T U S   V I R   Q U I   I N V E N T U S   E S T"
     }
     \paper { indent = 1.5\cm }
     \score {

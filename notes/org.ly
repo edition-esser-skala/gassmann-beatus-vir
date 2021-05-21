@@ -203,7 +203,7 @@ Organo = {
     g8 h, h h h h %195
     c c c c c c
     d d d d d d
-    g2-\critnote r4\fermata \bar "|." %198 finis
+    g2^\critnote r4\fermata \bar "|." %198 finis
   }
 }
 

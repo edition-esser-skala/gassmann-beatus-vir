@@ -7,7 +7,7 @@
 \book {
   \bookpart {
     \header {
-      title = "B E A T U S   V I R   Q U I   I N V E N T U S   E S T   S I N E   M A C U L A"
+      title = "B E A T U S   V I R   Q U I   I N V E N T U S   E S T"
     }
     \paper { indent = 3\cm }
     \score {

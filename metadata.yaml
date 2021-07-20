@@ -1,0 +1,17 @@
+composer: Gassmann, Florian Leopold
+title: Beatus vir qui inventus est sine macula
+id: (A-Ed B 82)
+genre: offertorium
+scoring: B (solo), S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, vla, b, org
+sources:
+  1:
+    siglum: A-Ed
+    shelfmark: B 82
+    type: manuscript copy
+    date: unknown
+    rism: 600038048
+    url: http://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/869.html
+github: gassmann-beatus-vir
+imslp: Beatus_vir_qui_inventus_est_(Gassmann%2C_Florian_Leopold)
+notes:
+

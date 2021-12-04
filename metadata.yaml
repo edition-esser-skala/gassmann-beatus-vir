@@ -1,17 +1,19 @@
-composer: Gassmann, Florian Leopold
+composer:
+  last: Gassmann
+  first: Florian Leopold
 title: Beatus vir qui inventus est sine macula
-id: (A-Ed B 82)
+subtitle: Offertorium de Ascensione Domini et de Quocunque Sancto Martyre
 genre: offertorium
 scoring: B (solo), S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  B1:
     siglum: A-Ed
     shelfmark: B 82
-    type: manuscript copy
-    date: unknown
     rism: 600038048
     url: http://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/869.html
-github: gassmann-beatus-vir
-imslp: Beatus_vir_qui_inventus_est_(Gassmann%2C_Florian_Leopold)
-notes:
-
+    license: public domain
+    principal: true
+imslp: Beatus_vir_qui_inventus_est_(Gassmann,_Florian_Leopold)
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
